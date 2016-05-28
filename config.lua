@@ -3,7 +3,7 @@ return {
 	admin = {
 		owner = 105831687,
 		admins = {
-			[] = false,
+			[105831687] = false,
 			[105831687] = true
 		} 
 	},
